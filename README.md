@@ -27,7 +27,9 @@ print(inverse)
 ```
 
 ## Output:
-![output](./image/imgex03.png)
+![WhatsApp Image 2023-01-22 at 17 06 36](https://user-images.githubusercontent.com/119395610/213913788-f8bce9a8-e034-4ddb-8517-c943d1ea2f7b.jpg)
+![WhatsApp Image 2023-01-22 at 17 06 45](https://user-images.githubusercontent.com/119395610/213913795-784f7253-35db-4a73-8545-687abd6a0a27.jpg)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
